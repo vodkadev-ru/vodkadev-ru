@@ -18,9 +18,8 @@
 ![Lanyard](https://lanyard.cnrad.dev/api/819547571265470505)
 
 ## 📫 Как связаться
-- Discord: `vodkadev#0001`
-- Telegram: [@vodkadev](https://t.me/vodkadev)
-- Email: your@email.com
+- Discord: `_es_slime_`
+- Telegram: [@slime_developer](https://t.me/slime_developer)
 
 ## 🧰 Технологии
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -28,4 +27,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📈 Статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vodkadev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vodkadev-ru&show_icons=true&theme=tokyonight)

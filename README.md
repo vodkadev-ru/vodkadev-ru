@@ -10,7 +10,7 @@
 ## 🚀 О себе
 - 🛠️ Разрабатываю ботов для Discord и веб-приложения
 - 💡 Использую Node.js, Python, HTML, CSS
-- 🗄️ Работаю с MongoDB, SQLite3, MySQLite
+- 🗄️ Работаю с MongoDB, SQLite3, MySQL
 - 🌐 Открыт к сотрудничеству и новым проектам
 
 ## 🟢 Мой Discord-статус

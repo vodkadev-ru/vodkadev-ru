@@ -17,7 +17,7 @@
 
 ## 🟢 Мой Discord-статус
 
-![[Lanyard](https://lanyard.cnrad.dev/api/1369530593527988244?hideDiscrim=true&hideActivity=true&showDisplayName=true&hideSpotify=true&theme=dark)](https://discord.com/users/1369530593527988244)
+![Lanyard](https://lanyard.cnrad.dev/api/1369530593527988244?hideDiscrim=true&hideActivity=true&showDisplayName=true&hideSpotify=true&theme=dark)
 
 ## 📫 Как связаться
 - Discord: `slime.developer`

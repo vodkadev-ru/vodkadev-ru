@@ -17,10 +17,10 @@
 
 ## 🟢 Мой Discord-статус
 
-![Lanyard](https://lanyard.cnrad.dev/api/819547571265470505)
+![[Lanyard](https://lanyard.cnrad.dev/api/1369530593527988244?hideDiscrim=true&hideActivity=true&showDisplayName=true&hideSpotify=true&theme=dark)](https://discord.com/users/1369530593527988244)
 
 ## 📫 Как связаться
-- Discord: `_es_slime_`
+- Discord: `slime.developer`
 - Telegram: [@slime_developer](https://t.me/slime_developer)
 
 ## 🧰 Технологии

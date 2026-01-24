@@ -1,4 +1,4 @@
-# 👋 Привет! Я Discord-разработчик
+# 👋 Привет! Я vodkadev
 
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -10,8 +10,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🚀 О себе
-- 🛠️ Разрабатываю ботов для Discord и веб-приложения
-- 💡 Использую Node.js, Python, HTML, CSS
+- 🛠️ Разрабатываю ботов для Discord, веб-приложения и много что ещё
+- 💡 Использую Node.js, Python, React, CSS, C++, C#
 - 🗄️ Работаю с MongoDB, SQLite3, MySQL
 - 🌐 Открыт к сотрудничеству и новым проектам
 

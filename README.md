@@ -34,25 +34,6 @@ vrchat     vоdkadev
 donate     https://dalink.to/vodkadev_ru
 ```
 
-### `$ git log --top-starred`
-
-<div align="center">
-
-```
-┌─ vodkadev-ru/self_ai ─────────────────────────┐
-│  самый залайканный проект                     │
-└───────────────────────────────────────────────┘
-```
-
-<a href="https://github.com/vodkadev-ru/self_ai">
-  <img src="https://img.shields.io/github/stars/vodkadev-ru/self_ai?style=flat-square&logo=github&logoColor=39ff7a&label=stars&labelColor=0a0a0a&color=39ff7a" alt="stars" />
-  <img src="https://img.shields.io/github/languages/top/vodkadev-ru/self_ai?style=flat-square&label=lang&labelColor=0a0a0a&color=39ff7a" alt="language" />
-  <img src="https://img.shields.io/github/forks/vodkadev-ru/self_ai?style=flat-square&label=forks&labelColor=0a0a0a&color=39ff7a" alt="forks" />
-  <img src="https://img.shields.io/badge/open-repo_%E2%86%92-0a0a0a?style=flat-square&labelColor=0a0a0a&color=39ff7a" alt="open repo" />
-</a>
-
-</div>
-
 ### `$ git log --last-activity`
 
 <div align="center">

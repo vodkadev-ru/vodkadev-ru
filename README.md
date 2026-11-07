@@ -25,7 +25,6 @@
 ```console
 visitor@github:~$ cat about.txt
 C++ / Python / JS / React / CSS
-делаю клиенты, модули, инструменты и сайты. Играю в VRChat.
 
 visitor@github:~$ cat contacts.txt
 telegram   @slime_developer     https://t.me/slime_developer
@@ -39,8 +38,17 @@ donate     https://dalink.to/vodkadev_ru
 
 <div align="center">
 
+```
+┌─ vodkadev-ru/self_ai ─────────────────────────┐
+│  самый залайканный проект                     │
+└───────────────────────────────────────────────┘
+```
+
 <a href="https://github.com/vodkadev-ru/self_ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vodkadev-ru&repo=self_ai&theme=dark&bg_color=030703&title_color=39ff7a&text_color=c6ffd6&icon_color=39ff7a&border_color=1f5a33" alt="self_ai" />
+  <img src="https://img.shields.io/github/stars/vodkadev-ru/self_ai?style=flat-square&logo=github&logoColor=39ff7a&label=stars&labelColor=0a0a0a&color=39ff7a" alt="stars" />
+  <img src="https://img.shields.io/github/languages/top/vodkadev-ru/self_ai?style=flat-square&label=lang&labelColor=0a0a0a&color=39ff7a" alt="language" />
+  <img src="https://img.shields.io/github/forks/vodkadev-ru/self_ai?style=flat-square&label=forks&labelColor=0a0a0a&color=39ff7a" alt="forks" />
+  <img src="https://img.shields.io/badge/open-repo_%E2%86%92-0a0a0a?style=flat-square&labelColor=0a0a0a&color=39ff7a" alt="open repo" />
 </a>
 
 </div>
@@ -52,7 +60,7 @@ donate     https://dalink.to/vodkadev_ru
 <img src="https://img.shields.io/github/last-commit/vodkadev-ru/self_ai?style=flat-square&label=last%20commit&labelColor=0a0a0a&color=39ff7a" alt="last commit" />
 <img src="https://img.shields.io/github/commit-activity/m/vodkadev-ru/self_ai?style=flat-square&label=commits%2Fmonth&labelColor=0a0a0a&color=39ff7a" alt="commit activity" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vodkadev-ru&bg_color=030703&color=39ff7a&line=39ff7a&point=eafff0&area=true&area_color=39ff7a&hide_border=true&hide_title=true" alt="activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/39ff7a/vodkadev-ru" alt="contribution chart" width="100%" />
 
 </div>
 
